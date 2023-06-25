@@ -21,3 +21,8 @@ Some of the screenshot taken while wroking on projects are
 ![image](https://github.com/Dhanushyadav23/Lemon-Rosemary/assets/110958049/675107a8-2a0b-466f-bd9f-b73b0809298a)
 
 5. Creating the static webapp
+![image](https://github.com/Dhanushyadav23/Lemon-Rosemary/assets/110958049/c80b6605-26a4-419a-b2e0-b2b0b06e07df)
+
+6.Successfully hosted the webpage to azure
+![image](https://github.com/Dhanushyadav23/Lemon-Rosemary/assets/110958049/b9767cf1-b324-4d8f-be33-716519bdb82b)
+
