@@ -4,7 +4,7 @@ This is a Restaurnat webapge , In this webpage anyone can checkout the menu and 
 The main feature is they can make the reservation through the bot.
 I have used the HTML, CSS, JS, AZURE LANGUAGE STUIDO, BOT SERVICE, STATIC WEBAPPS.
 
-Project link(demo link): 
+Project link(demo link): https://lively-hill-0bc64a110.3.azurestaticapps.net
 
 Some of the screenshot taken while wroking on projects are 
 
